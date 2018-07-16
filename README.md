@@ -7,3 +7,4 @@ Java SE 8 技術手冊
 - [課後解答下載](http://openhome.cc/upload/javase8-exercises.zip)
 - [一刷勘誤](errata.md)
 
+[相关](https://openhome.cc/Gossip/CodeData/JavaTutorial/index.html)
